@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "NKatk test jwt MERN",
+  "mongoUri": "mongodb://localhost:27017/mernApp",
+  "baseUrl": "http://localhost:5000"
+}
